@@ -1,0 +1,120 @@
+img{
+    width:116;
+    height:38;
+    padding: 3px;
+    }
+#image{
+    margin-left:0px;
+    margin-top: 15px;
+    text-align: center;
+    height:45px;
+    width: auto;
+    /*background-color: aqua;*/
+}
+#one-acc{
+    text-align: center;
+}
+#big{
+    font-size: 38px;
+    font-family:Open Sans, Arial;
+    color: #555;
+    font-weight:200;
+    
+    
+}
+#small{
+    font-size: 18px;
+    font-family:Arial, Open-serif;
+    color: #555;
+    font-weight: 300;
+    margin-top: 15px;
+    
+}
+#login-box{
+    height:285px;
+    width: 274px;
+    background-color: #f7f7f7;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+   
+}
+#log-img{
+
+    display: inline-block;
+    
+    
+   
+}
+#avatar{
+    position: relative; 
+    height:96px;
+    width: 96px;
+    margin-left: 90px;
+    border-radius: 100%;
+    }
+#Email{
+    position:relative;
+    width: 256px;
+    height: 42px;
+    margin-top:16px;
+    font-size: 16px;
+    border:1px solid #dbdbdb;
+    background-color:#faffbd;
+    
+}
+#next{
+    position: relative;
+    margin-top:16px;
+    width: 260px;
+    height: 34px;
+    border:1px solid rgb(48, 121, 237);
+    border-radius: 4px;
+    font-family: Arial;
+    font-size: 13px;
+    color:white;
+    background-color:#4787ed;
+    margin-bottom: 5px;
+}
+#next:hover{
+    background-color:#4d90fe;
+}
+#Email:hover{
+    border: 1px solid grey;
+}
+#find{
+    position: relative;
+    margin-left: 162px;
+    text-decoration: none;
+    font-family: Arial;
+    color:#4787ed;
+    font-size: 13px;
+   
+}
+#find:hover{
+    text-decoration: underline;
+}
+#create{
+   position:relative;
+   margin-left: 620px;
+    text-decoration: none;
+    color:#4787ed;
+    font-family: Arial;
+    font-size: 14px;
+}
+#create:hover{
+    text-decoration: underline;
+}
+#icons{
+    height:75;
+    width: 250;
+    position: relative;
+    margin-left: 540px;
+}
+#one{
+    font-family: Arial;
+    font-size: 14px;
+    color:#555;
+    text-align: center;
+}
